@@ -1,2 +1,2 @@
 # GoogleColabNoteBooks
-google colab notebooks i used when taking the tensorflow course from freecodecamp
+notebooks i used when taking the tensorflow course from freecodecamp
